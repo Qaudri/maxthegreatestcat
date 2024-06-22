@@ -53,8 +53,8 @@
         </li>
       </ul>
     </section>
-    <img src="/02.jpeg" class="w-full my-10 aspect-square object-cover" alt="">
     <img src="/03.jpeg" class="w-full my-10 aspect-square object-cover" alt="">
+    <img src="/04.jpeg" class="w-full my-10 aspect-square object-cover" alt="">
     <UiTypogrpahyP><span class="supernova">Disclainer</span>an Max the Greatest Cat is a meme token on the Solana chain crested for fun it is not a financial advise take full responsibility of any loss you encounter</UiTypogrpahyP>
     <footer class="grid place-items-center">
       <div class="flex gap-5">
