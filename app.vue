@@ -20,42 +20,19 @@
       <UiTypographyH1>Max The Greatest Cat</UiTypographyH1>
       <UiTypographyP>Max the Greatest Cat is not just another meme token on Solana Blockchain, it's a celebration of feline greatness and meme culture</UiTypographyP>
       <img src="/01.jpeg" class="w-full my-10 aspect-square object-cover" alt="Max the cat">
-      <ul class="grid md:grid-cols-2 mt-10 gap-8">
-        <li class="bg-amber-900 p-5 rounded-xl">
-          <div class="background w-full h-48 rounded-md bg-oramge-500"></div>
-          <UiTypographyH2 class="mt-4 text-center">🔒 LP is burned</UiTypographyH2>
-        </li>
-        <li class="bg-amber-900 p-5 rounded-xl">
-          <div class="background w-full h-48 rounded-md bg-oramge-500"></div>
-          <UiTypographyH2 class="mt-4 text-center">⚙️ Mint Authority is revoked.          </UiTypographyH2>
-        </li>
-        <li class="bg-amber-900 p-5 rounded-xl">
-          <div class="background w-full h-48 rounded-md bg-oramge-500"></div>
-          <UiTypographyH2 class="mt-4 text-center">🥶 Freeze Authority is revoked.          </UiTypographyH2>
-        </li>
-        <li class="bg-amber-900 p-5 rounded-xl">
-          <div class="background w-full h-48 rounded-md bg-oramge-500"></div>
-          <UiTypographyH2 class="mt-4 text-center">💰 Zero buy or sell taxes.</UiTypographyH2>
-        </li>
-        <li class="bg-amber-900 p-5 rounded-xl">
-          <div class="background w-full h-48 rounded-md bg-oramge-500"></div>
-          <UiTypographyH2 class="mt-4 text-center">🔍 Fully community driven token</UiTypographyH2>
-        </li>
-        <li class="grid items-center">
-          <NuxtLink class="bg-amber-900 p-5 rounded-xl flex items-center gap-5 w-fit mx-auto" to="https://x.com/MaxTheGr8estCat?t=zcQAoQMH6LKlUqWfy20HiQ&s=09" target="_blank">
-            <IconsTwitter class="w-16" />
-            <UiTypographyH2>Follow on Twitter</UiTypographyH2>
-          </NuxtLink>
-          <NuxtLink class="bg-amber-900 p-5 rounded-xl flex items-center gap-5 mt-5 w-fit mx-auto" to="https://t.me/MaxTheGreatestCat" target="_blank">
-            <IconsTelegram class="w-16" />
-            <UiTypographyH2>Join Telegram</UiTypographyH2>
-          </NuxtLink>
-        </li>
-      </ul>
+      <div class="grid md:grid-cols-2 mt-10 gap-8 place-items-center">
+        <ul>
+          <li>🔒 LP is burned</li>
+          <li>⚙️ Mint Authority is revoked.</li>
+          <li>🥶 Freeze Authority is revoked.</li>
+          <li>💰 Zero buy or sell taxes.</li>
+          <li>🔍 Fully community driven token</li>
+        </ul>
+        <img src="/03.jpeg" class="w-full my-10 aspect-square object-cover" alt="">
+      </div>
     </section>
-    <img src="/03.jpeg" class="w-full my-10 aspect-square object-cover" alt="">
     <img src="/04.jpeg" class="w-full my-10 aspect-square object-cover" alt="">
-    <UiTypogrpahyP><span class="supernova">Disclainer</span>an Max the Greatest Cat is a meme token on the Solana chain crested for fun it is not a financial advise take full responsibility of any loss you encounter</UiTypogrpahyP>
+    <UiTypogrpahyP><span class="supernova">Disclaimer:</span>an Max the Greatest Cat is a meme token on the Solana chain crested for fun it is not a financial advise take full responsibility of any loss you encounter</UiTypogrpahyP>
     <footer class="grid place-items-center">
       <div class="flex gap-5">
         <NuxtLink to="https://t.me/MaxTheGreatestCat" class="w-12 aspect-square bg-amber-900 hover:bg-purple-500 justify-center duration-300 ease-in-out rounded-full outline-none focus:outline-none flex items-center gap-4">
