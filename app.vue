@@ -31,8 +31,8 @@
         <img src="/03.jpeg" class="w-full my-10 aspect-square object-cover" alt="">
       </div>
     </section>
-    <img src="/04.jpeg" class="w-full my-10 aspect-square object-cover" alt="">
-    <UiTypogrpahyP><span class="supernova">Disclaimer:</span>an Max the Greatest Cat is a meme token on the Solana chain crested for fun it is not a financial advise take full responsibility of any loss you encounter</UiTypogrpahyP>
+    <UiTypogrpahyP class="p-5 border border-orange-500 rounded-md"><span class="supernova">Disclaimer:</span>an Max the Greatest Cat is a meme token on the Solana chain crested for fun it is not a financial advise take full responsibility of any loss you encounter</UiTypogrpahyP>
+    <img src="/04.jpeg" class="w-full my-10" alt="">
     <footer class="grid place-items-center">
       <div class="flex gap-5">
         <NuxtLink to="https://t.me/MaxTheGreatestCat" class="w-12 aspect-square bg-amber-900 hover:bg-purple-500 justify-center duration-300 ease-in-out rounded-full outline-none focus:outline-none flex items-center gap-4">
@@ -42,7 +42,7 @@
           <IconsTwitter class="w-7 h-7 text-white" />
         </NuxtLink>
       </div>
-      <UiTypographyP class="mt-2">&copy;Beerus Token, {{new Date().getFullYear()}}</UiTypographyP>
+      <UiTypographyP class="mt-2">&copy; Max the Cat, {{new Date().getFullYear()}}</UiTypographyP>
   </footer>
   </main>
 </template>
