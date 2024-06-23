@@ -44,7 +44,7 @@
         <img src="/03.jpeg" class="rounded-md w-full my-10 aspect-square object-cover" alt="">
       </div>
     </section>
-    <UiTypographyP class="p-5 border border-orange-500 rounded-md"><span class="text-orange-500 font-bold">Disclaimer:</span>an Max the Greatest Cat is a meme token on the Solana chain crested for fun it is not a financial advise take full responsibility of any loss you encounter</UiTypographyP>
+    <UiTypographyP class="p-5 border border-orange-500 rounded-md"><span class="text-orange-500 font-bold">Disclaimer:</span>Max the Greatest Cat is a meme token on the Solana chain crested for fun it is not a financial advise take full responsibility of any loss you encounter</UiTypographyP>
     <img src="/04.jpeg" class="rounded-md w-full my-10" alt="">
     <footer class="grid place-items-center">
       <div class="flex gap-5">
