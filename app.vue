@@ -21,6 +21,15 @@
       <div>
         <UiTypographyH1 class="text-orange-500">Max The Greatest Cat</UiTypographyH1>
         <UiTypographyP>Max the Greatest Cat is not just another meme token on Solana Blockchain, it's a celebration of feline greatness and meme culture</UiTypographyP>
+        <div class="flex gap-5 mt-5">
+                <NuxtLink to="https://t.me/MaxTheGreatestCat" class="w-12 aspect-square bg-orange-500 justify-center duration-300 ease-in-out rounded-md outline-none focus:outline-none flex items-center gap-4">
+                          <IconsTelegram class="w-7 h-7 text-white " />
+                          
+                                  </NuxtLink>
+                                          <NuxtLink to="https://x.com/MaxTheGr8estCat?t=zcQAoQMH6LKlUqWfy20HiQ&s=09" class="w-12 aspect-square bg-orange-500 justify-center duration-300 ease-in-out rounded-md outline-none focus:outline-none flex items-center gap-4">
+                                                    <IconsTwitter class="w-7 h-7 text-white" />
+                                                            </NuxtLink>
+                                                                  </div>
       </div>
       <img src="/01.jpeg" class="w-full my-10 object-cover rounded-md" alt="Max the cat">
       </div>
